@@ -10,7 +10,7 @@
 
 ## Observações:
 * Você pode conferir uma demo da aplicação por meio do link: [Be The Hero](https://beaheroapp.netlify.com)
-* Por ser uma aplicação muito simples criada para fins didáticos específicos, não foi tomadas as medidas necessárias para garantir a segurança, privacidade e integridade da mesma. 
+* Por ser uma aplicação muito simples criada para fins didáticos específicos, não foram tomadas as medidas necessárias para garantir a segurança, privacidade e integridade da mesma. 
 
 ----
 
