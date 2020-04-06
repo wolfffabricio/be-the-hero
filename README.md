@@ -9,8 +9,8 @@
 ----
 
 ## Observações:
-* Você pode conferir uma demo da aplicação por meio do link: [Be The Hero](https://beaheroapp.netlify.com)
-* Você também pode fazer download da versão [Android](https://drive.google.com/open?id=1d11Go3Uv_YDjwUhRnRI3CsUU7cxziYIV)
+* Você pode conferir uma demo da aplicação web por meio do link [Be The Hero](https://beaheroapp.netlify.com).
+* Caso queira, você pode fazer download da versão Android clicando [aqui](https://drive.google.com/open?id=1d11Go3Uv_YDjwUhRnRI3CsUU7cxziYIV).
 * Por ser uma aplicação muito simples criada para fins didáticos específicos, não foram tomadas as medidas necessárias para garantir a segurança, privacidade e integridade da mesma. 
 
 ----
